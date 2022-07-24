@@ -1,0 +1,11 @@
+.foto{
+    float:inline-end; /* Выравнивание по левому краю */
+    margin: 1px 1px 0 0; /* Отступы вокруг картинки */
+ 
+} 
+li{
+    font-size: 1.5rem;
+}
+div.container{
+    font-size: 1.5rem;
+}   

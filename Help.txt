@@ -1,0 +1,6 @@
+git Ошибка
+git push
+Everything up-to-date
+Решение
+ git remote -v
+ если 2 репозитория удалить один
